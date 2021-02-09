@@ -1,1 +1,1 @@
-# DS_projects
+Here I upload some mini Data Science projects
